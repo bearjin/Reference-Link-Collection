@@ -30,12 +30,19 @@
 * [JS Bin](https://jsbin.com/?html,js,output)
 * [CodePen](https://codepen.io/)
 
-## 참고 블로그
+## 참고블로그
 * [제로초님](https://www.zerocho.com/)
 * [캡틴판교님](https://joshua1988.github.io/)
 * [김정환님](https://jeonghwan-kim.github.io/)
+* [진유림님](https://milooy.wordpress.com/)
+* [코드랩 레퍼런스](https://coderap.tistory.com/)
+* [PoiemaWeb](https://poiemaweb.com/)
+* [WEBSTORYBOY](https://webzz.tistory.com/)
+* [네이버 기술블로그](https://d2.naver.com/home)
+* [카카오 기술블로그](https://tech.kakao.com/blog/)
 
 ## 참고사이트
 * [MDN 웹 문서](https://developer.mozilla.org/ko/)
 * [생활코딩](https://opentutorials.org/course/1)
-* [코드랩 레퍼런스](https://coderap.tistory.com/)
+* [Free Frontend](https://freefrontend.com/)
+* [Google Developers](https://developers.google.com/web?hl=ko)
