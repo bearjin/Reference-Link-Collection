@@ -27,6 +27,8 @@
 * [Array 객체에서 놓치기 쉬운 6개의 메서드](https://programmingsummaries.tistory.com/357?category=485241)
 * [front-end 개발자 인터뷰 문제 - javascript 영역](http://insanehong.kr/post/front-end-developer-interview-javascript/)
 * [if문의 다양한 결과값의 경우들](https://stackoverflow.com/questions/7615214/in-javascript-why-is-0-equal-to-false-but-when-tested-by-if-it-is-not-fals)
+* [배열 랜덤(셔플)](https://stackoverflow.com/questions/2450954/how-to-randomize-shuffle-a-javascript-array)
+* [Fisher–Yates Shuffle](https://bost.ocks.org/mike/shuffle/)
 
 ## Front-End
 * [프론트엔드 체크리스트](https://github.com/kesuskim/Front-End-Checklist)
