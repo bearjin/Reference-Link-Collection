@@ -24,14 +24,23 @@
 * [JS에서 조건문을 더 낫게 쓰기 위한 5가지 팁](https://code-200.tistory.com/14)
 * [함수 표현식 vs 함수 선언식](https://joshua1988.github.io/web-development/javascript/function-expressions-vs-declarations/)
 * [자바스크립트와 이벤트 루프](https://meetup.toast.com/posts/89)
+* [Event Loop](https://asfirstalways.tistory.com/362)
 * [Array 객체에서 놓치기 쉬운 6개의 메서드](https://programmingsummaries.tistory.com/357?category=485241)
 * [front-end 개발자 인터뷰 문제 - javascript 영역](http://insanehong.kr/post/front-end-developer-interview-javascript/)
 * [if문의 다양한 결과값의 경우들](https://stackoverflow.com/questions/7615214/in-javascript-why-is-0-equal-to-false-but-when-tested-by-if-it-is-not-fals)
 * [배열 랜덤(셔플)](https://stackoverflow.com/questions/2450954/how-to-randomize-shuffle-a-javascript-array)
 * [Fisher–Yates Shuffle](https://bost.ocks.org/mike/shuffle/)
+* [자바스크립트 호출 스택(Call Stack) 이해하기](https://new93helloworld.tistory.com/358)
+* [바벨(Babel)의 동작 원리 및 흐름에 대해 알아보자.](https://moonformeli.tistory.com/28)
+* [성능덕후를 위한 자바스크립트 코딩 패턴(중급)](https://joshua1988.github.io/web-development/javascript/javascript-best-practices/)
+* [<번역>자바스크립트 성능 향상 방법](https://junwoo45.github.io/2020-01-29-javascript_performance/)
+* [JavaScript 인터뷰 : 주요 질문 설명](https://dev.to/educative/acing-the-javascript-interview-top-questions-explained-59b7)
+* [Data Structure For JavaScript](https://reactiver.dev/data-structure-for-javascript/)
 
 ## Front-End
 * [프론트엔드 체크리스트](https://github.com/kesuskim/Front-End-Checklist)
+* [코드프로그래머스 - 코딩테스트 연습](https://programmers.co.kr/learn/challenges)
+* [실용주의 프런트 엔드 개발](https://peter-cho.gitbook.io/book/)
 
 ## GitHub
 * [MarkDown 사용법 총정리](https://heropy.blog/2017/09/30/markdown/)
