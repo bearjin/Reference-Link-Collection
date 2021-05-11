@@ -42,8 +42,12 @@
 * [코드프로그래머스 - 코딩테스트 연습](https://programmers.co.kr/learn/challenges)
 * [실용주의 프런트 엔드 개발](https://peter-cho.gitbook.io/book/)
 
-## GitHub
+## Git & GitHub
 * [MarkDown 사용법 총정리](https://heropy.blog/2017/09/30/markdown/)
+* [좋은 git commit 메시지를 위한 영어 사전](https://blog.ull.im/engineering/2019/03/10/logs-on-git.html)
+* [GitHub 환경에서의 실전 Git 레시피](https://meetup.toast.com/posts/116)
+* [Git 사용 중 자주 만나는 이슈 정리](https://parksb.github.io/article/28.html)
+* [깃 사용자가 가장 흔히 저지르는 6가지 실수와 대처 방법](https://www.itworld.co.kr/news/142318)
 
 ## Server
 * [HTTP 프로토콜 Part.1](https://joshua1988.github.io/web-development/http-part1/)
