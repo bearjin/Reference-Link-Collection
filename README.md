@@ -37,6 +37,11 @@
 * [JavaScript 인터뷰 : 주요 질문 설명](https://dev.to/educative/acing-the-javascript-interview-top-questions-explained-59b7)
 * [Data Structure For JavaScript](https://reactiver.dev/data-structure-for-javascript/)
 
+## React
+* [React 한글번역사이트](https://ko.reactjs.org/)
+* [VELOPERT.LOG: React 강좌](https://velopert.com/reactjs-tutorials)
+* [Airbnb React/JSX Style Guide](https://github.com/airbnb/javascript/tree/master/react)
+
 ## Front-End
 * [프론트엔드 체크리스트](https://github.com/kesuskim/Front-End-Checklist)
 * [코드프로그래머스 - 코딩테스트 연습](https://programmers.co.kr/learn/challenges)
