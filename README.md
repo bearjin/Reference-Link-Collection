@@ -17,6 +17,9 @@
 * [CSS3 transfrom은 진짜 좋을까?](https://b.luavis.kr/server/is-css3-transform-is-better-choice)
 * [SVG](https://css-tricks.com/svg-line-animation-works/)
 * [csstriggers](http://csstriggers.com/)
+* [CSS Gradient](https://cssgradient.io/)
+* [Box Shadow CSS Generator](https://html-css-js.com/css/generator/box-shadow/)
+* [컬러 조합](https://color.adobe.com/ko/create/color-wheel)
 
 ## Javascript
 * [JavaScript Standard Style](https://standardjs.com/rules-kokr.html)
