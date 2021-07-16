@@ -46,6 +46,9 @@
 * [VELOPERT.LOG: React 강좌](https://velopert.com/reactjs-tutorials)
 * [Airbnb React/JSX Style Guide](https://github.com/airbnb/javascript/tree/master/react)
 
+## WEBPACK
+* [browserslist](https://github.com/browserslist/browserslist)
+
 ## Front-End
 * [프론트엔드 체크리스트](https://github.com/kesuskim/Front-End-Checklist)
 * [코드프로그래머스 - 코딩테스트 연습](https://programmers.co.kr/learn/challenges)
