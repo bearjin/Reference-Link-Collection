@@ -4,6 +4,8 @@
 * [EntityCode](https://entitycode.com/)
 * [W3C Markup Validation](https://validator.w3.org/)
 * [front-end 개발자 인터뷰 문제 - HTML 영역](http://insanehong.kr/post/front-end-developer-interview-html/)
+* [HTML이 당신의 생각보다 더 중요한 이유](https://xo.dev/why-html-is-important-than-you-think/)
+* [생소한 HTML 요소 정리](https://velog.io/@cjy0029/%EC%83%9D%EC%86%8C%ED%95%9C-HTML-%EC%9A%94%EC%86%8C-%EC%A0%95%EB%A6%AC)
 
 ## CSS
 * [CSS 우선 순위](https://specificity.keegan.st/)
@@ -20,6 +22,8 @@
 * [CSS Gradient](https://cssgradient.io/)
 * [Box Shadow CSS Generator](https://html-css-js.com/css/generator/box-shadow/)
 * [컬러 조합](https://color.adobe.com/ko/create/color-wheel)
+* [CSS 역사로 알아보는 CSS가 어려워진 이유](https://velog.io/@teo/css-history-1)
+* [Grid System과 CSS Grid](https://velog.io/@teo/CSS%EC%99%80-Layout-%EA%B7%B8%EB%A6%AC%EA%B3%A0-Grid-System)
 
 ## Javascript
 * [JavaScript Standard Style](https://standardjs.com/rules-kokr.html)
@@ -79,6 +83,7 @@
 * [JSFiddle](https://jsfiddle.net/)
 * [JS Bin](https://jsbin.com/?html,js,output)
 * [CodePen](https://codepen.io/)
+* [Codesandbox](https://codesandbox.io/)
 
 ## 참고블로그
 * [제로초님](https://www.zerocho.com/)
@@ -96,3 +101,6 @@
 * [생활코딩](https://opentutorials.org/course/1)
 * [Free Frontend](https://freefrontend.com/)
 * [Google Developers](https://developers.google.com/web?hl=ko)
+* [서핏](https://www.surfit.io/explore/develop/web-dev)
+* [요즘it](https://yozm.wishket.com/magazine/)
+* [Clelab](https://clelab.io/)
