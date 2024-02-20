@@ -45,6 +45,7 @@
 * [JavaScript 인터뷰 : 주요 질문 설명](https://dev.to/educative/acing-the-javascript-interview-top-questions-explained-59b7)
 * [Data Structure For JavaScript](https://reactiver.dev/data-structure-for-javascript/)
 * [타입스크립트에 대해 아무도 설명해주지 않은 것 한 가지](https://kofearticle.substack.com/p/korean-fe-article-87e)
+* [javascript 문제모음](https://github.com/topics/javascript-quiz)
 
 ## React
 * [React 한글번역사이트](https://ko.reactjs.org/)
