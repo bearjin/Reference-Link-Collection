@@ -44,20 +44,27 @@
 * [<번역>자바스크립트 성능 향상 방법](https://junwoo45.github.io/2020-01-29-javascript_performance/)
 * [JavaScript 인터뷰 : 주요 질문 설명](https://dev.to/educative/acing-the-javascript-interview-top-questions-explained-59b7)
 * [Data Structure For JavaScript](https://reactiver.dev/data-structure-for-javascript/)
-* [타입스크립트에 대해 아무도 설명해주지 않은 것 한 가지](https://kofearticle.substack.com/p/korean-fe-article-87e)
 * [javascript 문제모음](https://github.com/topics/javascript-quiz)
+* [2024년 팽창하는 자바스크립트](https://velog.io/@sehyunny/js-bloat-in-2024)
+* [7 Advanced JavaScript Techniques Every Developer Should Know by Now (Including Code)](https://velog.io/@jonghunbok/%EB%B2%88%EC%97%AD-7-Advanced-JavaScript-Techniques-Every-Developer-Should-Know-by-Now-Including-Code)
+
+## Typescript
+* [더 좋은 타입스크립트 프로그래머로 만드는 11가지 팁](https://velog.io/@lky5697/11-tips-that-help-you-become-a-better-typescript-programmer)
+* [타입스크립트에 대해 아무도 설명해주지 않은 것 한 가지]([https://kofearticle.substack.com/p/korean-fe-article-87e](https://ykss.netlify.app/translation/one_thing_nobody_explained_to_you_about_typescript/))
 
 ## React
 * [React 한글번역사이트](https://ko.reactjs.org/)
 * [VELOPERT.LOG: React 강좌](https://velopert.com/reactjs-tutorials)
 * [Airbnb React/JSX Style Guide](https://github.com/airbnb/javascript/tree/master/react)
-* [Clelab - React](https://clelab.io/course/react)
-* [Clelab - React 상태관리](https://clelab.io/course/react-state-management)
-* [Clelab - Redux](https://clelab.io/course/redux)
 * [배럴(Barrel) 파일의 대실패](https://github.com/yeonjuan/dev-blog/blob/master/JavaScript/speeding-up-the-javascript-ecosystem-the-barrel-file-debacle.md?utm_source=substack&utm_medium=email)
 * [웹성능캐시 똑똑하게 다루기](https://toss.tech/article/smart-web-service-cache)
 * [리액트 쿼리 v5 살펴보기](https://www.moonkorea.dev/React-TanStack-Query-v5-%EC%82%B4%ED%8E%B4%EB%B3%B4%EA%B8%B0-(%EB%A6%AC%EC%95%A1%ED%8A%B8%EC%BF%BC%EB%A6%AC))
 * [헤드리스 컴포넌트: 리액트 UI를 합성하기 위한 패턴](https://kofearticle.substack.com/p/korean-fe-article-ui-2c5)
+* [The Query Options API](https://velog.io/@cnsrn1874/the-query-options-api)
+* [리액트의 use 훅과 사용 예제](https://ykss.netlify.app/translation/use_hook_in_react_and_its_use_cases/)
+* [리액트의 양면성](https://velog.io/@typo/the-two-reacts)
+* [How React server components work: an in-depth guide](https://junghan92.medium.com/%EB%B2%88%EC%97%AD-how-react-server-components-work-an-in-depth-guide-aaf90ebd3c45)
+* [How to Reuse Code in React](https://velog.io/@lky5697/%EB%B2%88%EC%97%ADHow-To-Reuse-Code-in-React)
 
 ## WEBPACK
 * [browserslist](https://github.com/browserslist/browserslist)
@@ -67,11 +74,8 @@
 * [프론트엔드 체크리스트](https://github.com/kesuskim/Front-End-Checklist)
 * [코드프로그래머스 - 코딩테스트 연습](https://programmers.co.kr/learn/challenges)
 * [실용주의 프런트 엔드 개발](https://peter-cho.gitbook.io/book/)
-* [프론트엔드 면접의 모든것 - 프론트엔드 지식편](https://clelab.io/course/developer-interview)
-* [프론트엔드 면접의 모든것 - 프론트엔드 기술편](https://clelab.io/course/frontend-interview)
-* [프론트엔드 면접의 모든것 - 프론트엔드 컬쳐면접](https://clelab.io/course/culture-interview)
 * [캡틴판교 - 프런트엔드 개발 면접 질문](https://joshua1988.github.io/web-development/interview/frontend-questions/)
-* [소프트 내비게이션 측정 실험하기](https://kofearticle.substack.com/p/korean-fe-article-0f7)
+* [소프트 내비게이션 측정 실험하기](https://ktseo41.github.io/blog/log/experimenting-with-measuring-soft-navigations.html)
 
 ## Git & GitHub
 * [MarkDown 사용법 총정리](https://heropy.blog/2017/09/30/markdown/)
