@@ -103,6 +103,7 @@
 * [50,000줄의 코드를 React 서버 컴포넌트로 옮기기 전에 알았더라면 좋았을 것들](https://kofearticle.substack.com/p/korean-fe-article-50000-react)
 * [React에서 UI와 로직 분리하기:헤드리스 컴포넌트를 사용한 클린 코드 접근법](https://kofearticle.substack.com/p/korean-fe-article-react-ui)
 * [새로운 리액트 문서에서 제시하는 9가지 권장 사항](https://kofearticle.substack.com/p/korean-fe-article-9)
+* [리액트 쿼리 튜토리얼](https://github.com/ssi02014/react-query-tutorial)
 
 ## WEBPACK
 * [browserslist](https://github.com/browserslist/browserslist)
