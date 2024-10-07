@@ -62,6 +62,8 @@
 * [코드 품질을 높여주는 고급 자바스크립트 함수](https://kofearticle.substack.com/p/korean-fe-article-4bd)
 * [2024년 자바스크립트의 5가지 가장 혁신적인 제안](https://kofearticle.substack.com/p/korean-fe-article-2024-5)
 * [자바스크립트의 await 사건의 지평선](https://kofearticle.substack.com/p/korean-fe-article-await)
+* [자바스크립트의 Date가 곧 수정됩니다](https://ykss.netlify.app/translation/how_to_make_your_web_page_faster_before_it_even_loads/)
+* [여러 매개 변수를 사용하는 자바스크립트 함수를 작성하는 방법(역대급 가이드)](https://gist.github.com/superLipbalm/0c9226769326f8e7f1c5a7a04f54cfca)
 
 ## Typescript
 * [더 좋은 타입스크립트 프로그래머로 만드는 11가지 팁](https://velog.io/@lky5697/11-tips-that-help-you-become-a-better-typescript-programmer)
@@ -105,6 +107,7 @@
 * [React에서 UI와 로직 분리하기:헤드리스 컴포넌트를 사용한 클린 코드 접근법](https://kofearticle.substack.com/p/korean-fe-article-react-ui)
 * [새로운 리액트 문서에서 제시하는 9가지 권장 사항](https://kofearticle.substack.com/p/korean-fe-article-9)
 * [리액트 쿼리 튜토리얼](https://github.com/ssi02014/react-query-tutorial)
+* [Suspense를 지원하는 라이브러리를 직접 구축하며 Suspense 학습하기](https://velog.io/@tap_kim/react-learn-suspense)
 
 ## WEBPACK
 * [browserslist](https://github.com/browserslist/browserslist)
@@ -132,6 +135,9 @@
 * [기능 분할 설계 - 최고의 프런트엔드 아키텍처](https://kofearticle.substack.com/p/korean-fe-article-f40)
 * [리액트 서버 컴포넌트를 위한 스토리북](https://kofearticle.substack.com/p/korean-fe-article-287)
 * [수많은 저장소를 하나로: 자바스크립트 코드를 모노레포로 이동하기](https://kofearticle.substack.com/p/korean-fe-article-323)
+* [웹 페이지가 로드되기 전에 더 빠르게 만드는 방법](https://ykss.netlify.app/translation/how_to_make_your_web_page_faster_before_it_even_loads/)
+* [구글이 색인 과정에서 자바스크립트를 처리하는 방법](https://junghan92.medium.com/%EB%B2%88%EC%97%AD-%EA%B5%AC%EA%B8%80%EC%9D%B4-%EC%83%89%EC%9D%B8-%EA%B3%BC%EC%A0%95%EC%97%90%EC%84%9C-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EB%A5%BC-%EC%B2%98%EB%A6%AC%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95-43f570983779)
+* [좋은 리팩터링 vs 나쁜 리팩터링](https://ykss.netlify.app/translation/good_refactoring_vs_bad_refactoring/)
 
 ## Git & GitHub
 * [MarkDown 사용법 총정리](https://heropy.blog/2017/09/30/markdown/)
