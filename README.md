@@ -138,6 +138,7 @@
 * [웹 페이지가 로드되기 전에 더 빠르게 만드는 방법](https://ykss.netlify.app/translation/how_to_make_your_web_page_faster_before_it_even_loads/)
 * [구글이 색인 과정에서 자바스크립트를 처리하는 방법](https://junghan92.medium.com/%EB%B2%88%EC%97%AD-%EA%B5%AC%EA%B8%80%EC%9D%B4-%EC%83%89%EC%9D%B8-%EA%B3%BC%EC%A0%95%EC%97%90%EC%84%9C-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EB%A5%BC-%EC%B2%98%EB%A6%AC%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95-43f570983779)
 * [좋은 리팩터링 vs 나쁜 리팩터링](https://ykss.netlify.app/translation/good_refactoring_vs_bad_refactoring/)
+* [네이밍 규칙](https://github.com/kettanaito/naming-cheatsheet)
 
 ## Git & GitHub
 * [MarkDown 사용법 총정리](https://heropy.blog/2017/09/30/markdown/)
